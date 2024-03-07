@@ -1,0 +1,9 @@
+C:\Users\Adricum\source\repos\ejemplos-asp-webforms-main\negocio\bin\Debug\negocio.dll
+C:\Users\Adricum\source\repos\ejemplos-asp-webforms-main\negocio\bin\Debug\negocio.pdb
+C:\Users\Adricum\source\repos\ejemplos-asp-webforms-main\negocio\bin\Debug\dominio.dll
+C:\Users\Adricum\source\repos\ejemplos-asp-webforms-main\negocio\bin\Debug\dominio.pdb
+C:\Users\Adricum\source\repos\ejemplos-asp-webforms-main\negocio\obj\Debug\negocio.csproj.AssemblyReference.cache
+C:\Users\Adricum\source\repos\ejemplos-asp-webforms-main\negocio\obj\Debug\negocio.csproj.CoreCompileInputs.cache
+C:\Users\Adricum\source\repos\ejemplos-asp-webforms-main\negocio\obj\Debug\negocio.csproj.CopyComplete
+C:\Users\Adricum\source\repos\ejemplos-asp-webforms-main\negocio\obj\Debug\negocio.dll
+C:\Users\Adricum\source\repos\ejemplos-asp-webforms-main\negocio\obj\Debug\negocio.pdb
